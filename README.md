@@ -2,7 +2,16 @@
 
 # matching-ids
 
-R code for generating unique identifiers for use in survey research.
+R code for generating unique identifiers for use in survey research. The code can be found in the file ``generating-ids.R``.
+
+# How to use
+
+1. If not already done: install the packages ``random`` and ``writexl`` by typing ``install.packages("random", dep = TRUE)`` and ``install.packages("writexl", dep = TRUE)``
+2. Download the file ``generating-ids.R`` or copy the content of the file
+3. Modify the amount of identifiers you need in line 18 (``amount <- 200``). Notice, that you cannot generate more than 10,000 IDs.
+4. Modify the length of the identifieres in line 19 (``length <- 4``).
+5. Run the code. It generates approx. the amount of required identifiers and asks for a location to store the file with the code.
+
 
 # Packages
 
