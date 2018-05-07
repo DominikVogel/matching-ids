@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930)![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
 
 # matching-ids
 
