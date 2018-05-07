@@ -4,7 +4,7 @@
 # Contact       : post@vogel-online.info
 # Date          : 2018-05-07
 # Version       : R version 3.5.0 (2018-04-23)
-# Release       : 1.0
+# Release       : 1.0.0
 # License       : MIT License
 
 
