@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930)![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930) [![GitHub release](https://github-basic-badges.herokuapp.com/release/DominikVogel/matching-ids.svg)](https://github.com/DominikVogel/matching-ids/releases)
 
 # matching-ids
 
