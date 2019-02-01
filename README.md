@@ -2,7 +2,11 @@
 
 # matching-ids
 
-R code for generating unique identifiers for use in survey research. The code can be found in the file ``generating-ids.R``.
+R code for generating unique identifiers for use in survey research. The code can be found in the file ``generating-ids.R``. 
+
+The code is associated with the following publication:
+
+Vogel, D. (2018). Matching survey responses with anonymity in environments with privacy concerns: A practical guide. *International Journal of Public Sector Management*, 31(7): 742–754. https://doi.org/10.1108/IJPSM-12-2017-0330. *Open Access Post-Print*: https://doi.org/10.31235/osf.io/nwjd7
 
 # How to use
 
