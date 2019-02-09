@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930) [![GitHub release](https://github-basic-badges.herokuapp.com/release/DominikVogel/matching-ids.svg)](https://github.com/DominikVogel/matching-ids/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930) [![GitHub release](https://github-basic-badges.herokuapp.com/release/DominikVogel/matching-ids.svg)](https://github.com/DominikVogel/matching-ids/releases) [![](https://img.shields.io/badge/CodeOcean-Capsule-green.svg)](https://codeocean.com/capsule/9795597)
 
 # matching-ids
 
@@ -20,6 +20,10 @@ Vogel, D. (2018). Matching survey responses with anonymity in environments with 
 # Packages
 
 The script uses ``random`` (Eddelbuettel, 2017) to generate the identifiers and ``writexl`` (Ooms, 2017) to save the results in an Excel file.
+
+# Reproducibility
+
+There is a [Code Ocean](https://codeocean.com/) Capsule of the code that ensures computational reproducibility: https://codeocean.com/capsule/9795597
 
 # References
 
