@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930) [![GitHub release](https://github-basic-badges.herokuapp.com/release/DominikVogel/matching-ids.svg)](https://github.com/DominikVogel/matching-ids/releases) [![](https://img.shields.io/badge/CodeOcean-Capsule-green.svg)](https://codeocean.com/capsule/9795597)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/85735930.svg)](https://zenodo.org/badge/latestdoi/85735930) [![](https://img.shields.io/github/release/DominikVogel/matching-ids.svg)](https://github.com/DominikVogel/matching-ids/releases) [![](https://img.shields.io/badge/CodeOcean-Capsule-green.svg)](https://codeocean.com/capsule/9795597)
 
 # matching-ids
 
